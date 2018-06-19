@@ -1,4 +1,5 @@
-﻿# Script to move a regional "basic" Azure LB to a zonal "standard" Azure LB
+# Test
+# Script to move a regional "basic" Azure LB to a zonal "standard" Azure LB
 # NOTE: This currently only supports a single FE configuration and LBRule/Probe/BEPool setup
 #
 # Usage: .\AZLBMigration-v7.ps1 -subid a97a235d-55f9-4382-856a-e38f8b5b6d31 -lbname mylb -lbresourcegroup bobroud-testlb2
