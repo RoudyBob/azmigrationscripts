@@ -1,4 +1,4 @@
-﻿# Script to move VMs from an existing Load Balancer into Availability Zones
+# Script to move VMs from an existing Load Balancer into Availability Zones
 # The VMs in the existing Load Balancer are spread across all 3 zones in the target region
 #
 # Usage: .\MoveLBVMstoAZs-v7.ps1 -subid a97a235d-55f9-4382-856a-e38f8b5b6d31 -lbname mylb -lbresourcegroup bobroud-testlb2
